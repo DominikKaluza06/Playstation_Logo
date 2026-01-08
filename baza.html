@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+  <meta charset="UTF-8">
+  <title>Logo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <!-- Div za SVG -->
+  <div id="logo"></div>
+
+  <!-- Canvas -->
+  <canvas id="logoCanvas" width="50" height="50"></canvas>
+
+  <!-- Slika -->
+  <img src="images/logo.png" alt="Logo">
+
+  <!-- Najprej logo.js -->
+  <script src="images/logo.js"></script>
+
+  <!-- vstavi SVG v div -->
+  <script>
+    document.getElementById("logo").innerHTML = logoSVG;
+  </script>
+
+  <!-- Ostali JS -->
+  <script src="js/canvas.js"></script>
+
+</body>
+</html>

@@ -77,15 +77,8 @@
     <header class="header" id="header">
       <nav class="nav container">
         <div class="nav_box">
-          <a href="./index.html" class="nav_logo">
-            <img
-              src="./assets/svg/logo.svg"
-              width="44"
-              height="41"
-              alt="PlayStation Logo"
-            />
+            <canvas id="logoCanvas" width="50" height="50"></canvas>
             PlayStation
-          </a>
         </div>
         <div class="nav_menu" id="nav-menu">
           <ul class="nav_list">
@@ -126,7 +119,7 @@
     <section class="screen_loading flex_center flex_column">
       <img
         class="loading_logo"
-        src="./assets/svg/logo.svg"
+        src="images/logo.png"
         width="44"
         height="41"
         alt="Logo PlaySation"
@@ -649,6 +642,17 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     ></script>
+
+  <!-- Najprej logo.js -->
+  <script src="images/logo.js"></script>
+
+  <!-- vstavi SVG v div -->
+  <script>
+    document.getElementById("logo").innerHTML = logoSVG;
+  </script>
+
+  <!-- Ostali JS -->
+  <script src="js/canvas.js"></script>
     <script>
       gsap.registerPlugin(ScrollTrigger);
 
@@ -664,6 +668,7 @@
           ease: 'power4.out',
         });
       });
+      
     </script>
     <!--========== JAVASCRIPT ===========-->
     <script src="./assets/js/main.js"></script>
