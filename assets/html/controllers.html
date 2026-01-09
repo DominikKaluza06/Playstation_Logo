@@ -78,12 +78,7 @@
       <nav class="nav container">
         <div class="nav_box">
           <a href="../../index.html" class="nav_logo">
-            <img
-              src="../svg/logo.svg"
-              width="44"
-              height="41"
-              alt="PlaySation Logo"
-            />
+            <canvas id="logoCanvas" width="50" height="50"></canvas>
             PlayStation
           </a>
         </div>
@@ -247,13 +242,7 @@
       <div class="footer_container container grid">
         <div class="footer_content">
           <a href="../../index.html" class="footer_logo">
-            <img
-              src="../svg/logo.svg"
-              width="44"
-              height="41"
-              alt="Logo PlayStation"
-              class="footer_logo-img"
-            />
+            <canvas id="logoCanvas" width="50" height="50"></canvas>
             PlayStation
           </a>
 
@@ -346,5 +335,16 @@
 
     <!--========== JAVASCRIPT ===========-->
     <script src="../js/main.js"></script>
+
+     <!-- Najprej logo.js -->
+  <script src="images/logo.js"></script>
+
+  <!-- vstavi SVG v div -->
+  <script>
+    document.getElementById("logo").innerHTML = logoSVG;
+  </script>
+
+  <!-- Ostali JS -->
+  <script src="js/canvas.js"></script>
   </body>
 </html>
