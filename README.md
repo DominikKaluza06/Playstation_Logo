@@ -1,33 +1,87 @@
-# 🎮 Playstation Logo Project
+<h1>🎮 Playstation Logo Project</h1>
 
-Welcome to the **Playstation Logo Project** — a simple static website created as a **second school project** using **HTML only**, with a focus on **Canvas and SVG graphics**.
+<p>
+The <strong>Playstation Logo Project</strong> is a static website created as a
+<strong>second school project</strong>. The main purpose of this project was to
+learn and practice working with <strong>SVG</strong>, <strong>HTML Canvas</strong>,
+and <strong>PNG images</strong> in a web environment.
+</p>
 
-🖥️ Live demo:  
-👉 https://dominikkaluza06.github.io/Playstation_Logo/
+<p>
+Live website:
+<br>
+<a href="https://dominikkaluza06.github.io/Playstation_Logo/" target="_blank">
+https://dominikkaluza06.github.io/Playstation_Logo/
+</a>
+</p>
 
-📦 Repository:  
-👉 https://github.com/DominikKaluza06/Playstation_Logo
+<p>
+GitHub repository:
+<br>
+<a href="https://github.com/DominikKaluza06/Playstation_Logo" target="_blank">
+https://github.com/DominikKaluza06/Playstation_Logo
+</a>
+</p>
 
----
+<hr>
 
-## 🧩 About
+<h2>📘 Project Purpose</h2>
 
-This is a basic **HTML-only website** built for educational purposes.  
-The main purpose of this project is to **practice graphics with HTML Canvas** and **SVG elements** while replicating a PlayStation-themed interface.
+<p>
+The primary goal of this project was to explore different image and graphics
+technologies available on the web. Instead of focusing on complex functionality,
+the project emphasizes visual rendering techniques.
+</p>
 
-The project does not use any backend or framework — just **static HTML, CSS, JavaScript for Canvas**, and **SVG for icons/logos**.
+<p>
+This website demonstrates:
+</p>
 
-⚙️ Key features:
+<ul>
+  <li><strong>SVG</strong> for scalable logos and product graphics</li>
+  <li><strong>HTML Canvas</strong> for drawing and visual effects</li>
+  <li><strong>PNG images</strong> for raster-based visual content</li>
+</ul>
 
-- Uses **HTML Canvas** for dynamic drawing and animations
-- Includes **SVG elements** for scalable graphics (logos/icons)
-- Responsive layout with simple navigation
-- Part of a school assignment to practice web fundamentals and graphics
+<hr>
 
----
+<h2>🧩 Technologies Used</h2>
 
-## 📂 Repository Structure
+<ul>
+  <li>HTML for structure</li>
+  <li>CSS for styling</li>
+  <li>JavaScript for Canvas rendering</li>
+  <li>SVG for vector graphics</li>
+  <li>PNG for image assets</li>
+</ul>
 
+<hr>
+
+<h2>📂 Project Overview</h2>
+
+<p>
+The repository contains multiple HTML pages, JavaScript files for Canvas logic,
+SVG-based elements, and PNG image assets. All content runs entirely in the browser
+with no backend or external frameworks.
+</p>
+
+<hr>
+
+<h2>🎓 School Project Notice</h2>
+
+<p>
+This project was created strictly for educational purposes as a second school
+assignment. The focus is on learning and demonstrating the use of different
+graphics formats on the web.
+</p>
+
+<hr>
+
+<h2>📄 License</h2>
+
+<p>
+This project is licensed under the MIT License.
+</p>
 
 ---
 
