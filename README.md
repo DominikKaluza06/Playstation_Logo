@@ -1,46 +1,33 @@
-<h1 align="center">
-    <img src="./assets/svg/logo.svg">
-</h1>
+# 🎮 Playstation Logo Project
 
-<div align="center">
-    <img src="https://img.shields.io/github/repo-size/kennedybarros/repsonsive-website-playstation?color=362BA9" />
-    <img src="https://img.shields.io/github/license/kennedybarros/repsonsive-website-playstation?color=362BA9"/>
-</div>
+Welcome to the **Playstation Logo Project** — a simple static website created as a **second school project** using **HTML only**, with a focus on **Canvas and SVG graphics**.
 
-<h1 align="center">
-    <img src="./banner.png">
-</h1>
+🖥️ Live demo:  
+👉 https://dominikkaluza06.github.io/Playstation_Logo/
 
-<h3 align="center">You can access the project <a href="https://repsonsive-website-playstation.netlify.app/" target="_blank">Clicking here</a></h3>
-
-<p align="center">Appliction developed to learning effects. The UI in figma can be seen in <a href="https://www.figma.com/file/0Kpr4fo1QTyyhruZDEbCBz/Repsonsive-Website-PlayStation?node-id=1%3A1886" target="_blank">Figma</a> </p>
+📦 Repository:  
+👉 https://github.com/DominikKaluza06/Playstation_Logo
 
 ---
 
-</br>
+## 🧩 About
 
-# 🚀 Technologies
+This is a basic **HTML-only website** built for educational purposes.  
+The main purpose of this project is to **practice graphics with HTML Canvas** and **SVG elements** while replicating a PlayStation-themed interface.
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [ScrollReveal](https://scrollrevealjs.org/)
-- [GSAP](https://greensock.com/gsap/)
-- [FORMSUBMIT](https://formsubmit.co/)
+The project does not use any backend or framework — just **static HTML, CSS, JavaScript for Canvas**, and **SVG for icons/logos**.
+
+⚙️ Key features:
+
+- Uses **HTML Canvas** for dynamic drawing and animations
+- Includes **SVG elements** for scalable graphics (logos/icons)
+- Responsive layout with simple navigation
+- Part of a school assignment to practice web fundamentals and graphics
 
 ---
 
-<br/>
+## 📂 Repository Structure
 
-## 🛠 How to download the project:
-
-```bash
-# Clone the repository
-$ git clone git@github.com:kennedybarros/repsonsive-website-playstation.git
-
-# Enter directory
-$ cd repsonsive-website-playstation
-```
 
 ---
 
