@@ -67,22 +67,6 @@ with no backend or external frameworks.
 
 <hr>
 
-<h2>🎓 School Project Notice</h2>
-
-<p>
-This project was created strictly for educational purposes as a second school
-assignment. The focus is on learning and demonstrating the use of different
-graphics formats on the web.
-</p>
-
-<hr>
-
-<h2>📄 License</h2>
-
-<p>
-This project is licensed under the MIT License.
-</p>
-
 ---
 
 <br/>
