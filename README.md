@@ -67,18 +67,8 @@ with no backend or external frameworks.
 
 <hr>
 
----
 
-<br/>
-
-## 📝 Licença:
+## 📝 License:
 
 This project is under license. see the file [LICENSE](LICENSE.md) for more details.
 
-<br/>
-
----
-
-<br/>
-
-<p align="center"> Developed by <a href="https://www.linkedin.com/in/kennedybarros/">Kennedy Barros</a> ✌🏼</p>
